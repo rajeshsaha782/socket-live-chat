@@ -1,5 +1,8 @@
 Live Chat
 ===================
 
-# Run NPM START 
-https://localhost:3000
+Run
+``` 
+npm start
+```
+navigate to https://localhost:3000
